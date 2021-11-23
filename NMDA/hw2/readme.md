@@ -1,4 +1,4 @@
-You do NOT have to read this document before running the code.
+PLEASE read this document before running the code.
 
 This is the 2nd homework of course NMDA.
 
@@ -8,7 +8,8 @@ If not stated, the entire content in this document is done by myself, referring 
 
 `readme.md`
 
-`Max_201901_5-4.jpg`: picture to be compressed in question 3
+`Max_201901_5-4.jpg`: picture to be compressed in question 3.
+> Out of privacy consideration, this picture will  not be uploaded on github. Please change the directory in `lfw.ipynb` before running.
 
 `lfw.ipynb`: question 1
 
@@ -22,7 +23,7 @@ If not stated, the entire content in this document is done by myself, referring 
 
 -----------------------------------
 
-> Minxing Wang, (id:2018012386)
+> Max Wang
 
 > maxwang123@hotmail.com|wangmx18@mails.tsinghua.edu.cn
 

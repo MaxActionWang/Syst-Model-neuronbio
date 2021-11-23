@@ -8,14 +8,12 @@ This file is the homework of the course NMDA, hw1.
 
 `Parkinsons.ipynb`
 
-`int_Machine.md`
-
 `parkinsons.data`
 
 `utils.py`: credit to someone else
 
-> 王敏行 id：2018012386
+> Max Wang
 >
-> wangmx18@mails.tsinghua.edu.cn
+> wangmx18@mails.tsinghua.edu.cn|maxwang123@hotmail.com
 >
 > Nov. 10, 2021
